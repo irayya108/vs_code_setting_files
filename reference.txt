@@ -1,0 +1,3 @@
+https://github.com/Microsoft/vscode-vs-keybindings?tab=readme-ov-file
+
+https://github.com/Microsoft/vscode-docs/blob/main/docs/getstarted/keybindings.md
